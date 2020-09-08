@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 Hi - Line 1 code- this is added in master branch. 
-=======
-Hi - Line 1 code- adding this in branch br2 
->>>>>>> br2

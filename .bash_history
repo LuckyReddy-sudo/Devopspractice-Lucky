@@ -33,3 +33,35 @@ git push origin master
 git push --help
 git pull origin master
 git push origin master
+sudo apt-get install git
+sudo apt-get update
+git config --global user.name "LuckyReddy-Sudo"
+git config --global user.email "Luckypaduru09@gmail.com
+git config --global user.email "Luckypaduru09@gmail.com"
+mkdir demo
+git init
+mkdir
+mkdir demo
+vi test2.py
+git add test2.py
+git status
+git commit -m 'this is second commit'
+git push origin master
+git pull origin master
+git pull origin --allow-unrelated-histories
+git pull origin master --allow-unrelated-histories
+git push origin master
+git pull origin master
+git all
+git log
+git rm test4.py 
+git status
+git commit -m 'remove test4'
+git push origin master
+ls
+vi test5.py
+vi test6.py
+git add .
+git status
+git commit -a -m 'This multiple files commit'
+git push origin master
